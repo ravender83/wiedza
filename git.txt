@@ -1,0 +1,2 @@
+git config --global user.name "Piotr Slezak"
+git config --global user.email "git@ravar.pl"
